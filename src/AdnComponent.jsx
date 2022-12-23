@@ -9,7 +9,7 @@ const AdnComponent = () => {
 
     return (
         <Center id='particles-js' backgroundImage={img} height={'95vh'} margin-top={'auto'}>
-            <ReactPlayer style={{ 'margin': 'auto' }} width={'90%'} height={'90%'} url='https://www.youtube.com/watch?v=nUumeBJ113Y' /> 
+            <ReactPlayer style={{ 'margin': 'auto' }} width={'90%'} height={'90%'} url='https://youtu.be/YLyEzi7lA-s' /> 
         </Center>
     
     )
